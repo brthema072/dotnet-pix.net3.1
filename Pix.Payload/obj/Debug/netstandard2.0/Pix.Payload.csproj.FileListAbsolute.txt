@@ -1,0 +1,9 @@
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.csprojAssemblyReference.cache
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.AssemblyInfoInputs.cache
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.AssemblyInfo.cs
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.csproj.CoreCompileInputs.cache
+D:\projetos\back\Pix.net3.1\Pix.Payload\bin\Debug\netstandard2.0\Pix.Payload.deps.json
+D:\projetos\back\Pix.net3.1\Pix.Payload\bin\Debug\netstandard2.0\Pix.Payload.dll
+D:\projetos\back\Pix.net3.1\Pix.Payload\bin\Debug\netstandard2.0\Pix.Payload.pdb
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.dll
+D:\projetos\back\Pix.net3.1\Pix.Payload\obj\Debug\netstandard2.0\Pix.Payload.pdb
